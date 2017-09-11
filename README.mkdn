@@ -1,3 +1,5 @@
+[![obsolete JetBrains project](http://jb.gg/badges/obsolete.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 # Scala Plugin for IntelliJ IDEA
 
 Plugin that implements Scala, SBT, Play 2, SSP and Hocon support in IntelliJ
