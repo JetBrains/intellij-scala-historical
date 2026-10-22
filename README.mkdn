@@ -1,3 +1,9 @@
+> **Historical archive.** This repository preserves the Scala plugin's old Git history, including binary blobs. Current development takes place in [JetBrains/intellij-scala](https://github.com/JetBrains/intellij-scala).
+>
+> This repository is retained for historical reference only. The build and development instructions below describe the old project and are no longer current.
+
+---
+
 [![obsolete JetBrains project](http://jb.gg/badges/obsolete.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
 # Scala Plugin for IntelliJ IDEA
